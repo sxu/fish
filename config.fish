@@ -4,7 +4,7 @@ if status is-interactive
 end
 
 if status is-login
-	fish_add_path -g /home/sxu/.local/bin
-	fish_add_path -g /home/sxu/.cargo/bin
-	fish_add_path -g /home/sxu/.fzf/bin
+    fish_add_path -g /home/sxu/.local/bin
+    fish_add_path -g /home/sxu/.cargo/bin
+    fish_add_path -g /home/sxu/.fzf/bin
 end
